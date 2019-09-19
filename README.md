@@ -1,2 +1,1 @@
-Tests for robotics course in YOUlab
-
+# Tests for YOUlab project
