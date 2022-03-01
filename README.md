@@ -8,6 +8,8 @@
 
 [Тест по Linux](https://forms.yandex.ru/u/5dea2e792c7b8b399edc7157/)
 
+[Тест по SQL]https://forms.yandex.ru/u/5dea6c2dbb57893d26b73b2f/
+
 ## C++:
 [Тест по С++](https://forms.yandex.ru/u/5dea38d2f198c03aaca971bc/)
 
